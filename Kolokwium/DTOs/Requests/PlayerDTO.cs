@@ -20,4 +20,3 @@ namespace Kolokwium.DTOs.Requests
         public string Comment { get; set; }
     }
 }
-}
